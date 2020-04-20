@@ -82,7 +82,7 @@ $(function() {
     }
     else {
       $('.more-content').hide();
-      $(event.currentTarget).addClass('more').text('Show more.');
+      $(event.currentTarget).addClass('more').text('Show more.')
     }
   });
 });
